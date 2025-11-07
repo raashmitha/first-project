@@ -1,0 +1,2 @@
+[2:18 pm, 06/11/2025] padmananabhg673: 4 Develop HTML page named as "registration.html" having variety of HTML input elements with background colors, table for alignment & provide font colors & size using CSS styles.
+[2:18 pm, 06/11/2025] padmananabhg673: 3 Develop an external style sheet named as "style.css" and provide different styles for h2, h3, hr, p, div, span, time, img & a tags. Apply different CSS selectors for tags and demonstrate the significance of each.
